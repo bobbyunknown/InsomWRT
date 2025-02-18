@@ -1,5 +1,7 @@
 # InsomWRT
-![Downloads](https://img.shields.io/github/downloads/bobbyunknown/InsomWRT/total.svg)
+[![GitHub Downloads](https://img.shields.io/github/downloads/bobbyunknown/InsomWRT/total?style=for-the-badge)](https://github.com/bobbyunknown)
+[![GitHub Release](https://img.shields.io/github/v/release/bobbyunknown/InsomWRT?style=for-the-badge)](https://github.com/bobbyunknown/InsomWRT/releases)
+
 
 ### Telegram group:
 [![SanTech](https://img.shields.io/badge/SanTech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+TuLCASzJrVJmNzM1)
