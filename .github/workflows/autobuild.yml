@@ -69,7 +69,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file_glob: true
           file: out/**/*.img.gz
-          tag: InsomWRT-23.05.05-stable
+          tag: InsomWRT-v2-23.05.05-stable
           overwrite: true
           body: |
             ##  OpenWRT Release for multiple devices
@@ -92,6 +92,6 @@ jobs:
             ### Rockchip
             RK3566 (Orange Pi 3B)
             RK3588S (Orange Pi 5)
-            RK3588 (Orange Pi 5 Plus)
+            RK3588 (Orange Pi 5 Plus/Max)
         env:
           ACTIONS_STEP_DEBUG: true
