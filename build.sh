@@ -33,7 +33,7 @@ rootfs=(
 rootfs_size=1024
 
 declare -A kernel_versions=(
-    ["allwinner"]="6.1.31-AW64-DBAI 6.1.104-AW64-DBAI 6.6.6-AW64-DBAI 6.6.36-current-sunxi64"
+    ["allwinner"]="6.1.104-AW64-DBAI 6.6.6-AW64-DBAI"
     ["rockchip"]="5.10.160-rk35v-dbai 6.1.123 "
     ["amlogic"]="5.4.279 6.1.66-DBAI "
 )
